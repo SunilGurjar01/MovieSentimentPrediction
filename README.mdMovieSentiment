@@ -1,0 +1,6 @@
+# MovieSentimentPrediction
+This Kaggle project, featured on my Kaggle profile, focuses on sentiment prediction based on movie reviews.
+Instead of relying on the more intricate models available in the NLP library, the primary goal of this project was to showcase the effectiveness of basic Machine Learning Models.
+It also aimed to emphasize the significance of preprocessing and feature engineering, including statistical approaches to enhance data suitability. 
+In essence, this project prioritized model interpretability and aimed to provide insights into the inner workings of the models, in contrast to using more opaque "black box" models.
+To achieve this, we conducted performance comparisons among various ML models.
